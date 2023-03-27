@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"**.bin": true,
+			"**.log": true,
+			"**.map": true,
+			"**.orig": true,
+			"**.ewp": true,
+			"**/.out": true,
+			"**/.sim": true,
+			"**/boot": true,
+			"**/Boot": true,
+			"**/Exe": true,
+			"**/Linker": true,
+			"**/Obj": true,
+			"**/settings": true,
+			"port_venv": true,
+			"DjangoPortfolioPage.code-workspace": true
+		},
+		"explorerExclude.backup": {}
+	}
+}
